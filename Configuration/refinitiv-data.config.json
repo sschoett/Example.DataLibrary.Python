@@ -15,12 +15,12 @@
         "default": "platform.rdp",
         "platform": {
             "rdp": {
-                "app-key": "YOUR APP KEY GOES HERE!",
-                "username": "YOUR RDP LOGIN OR MACHINE GOES HERE!",
-                "password": "YOUR RDP PASSWORD GOES HERE!"
+                "app-key": "1e5d227dd54a4efc8ff630df09dd314e4d44ce07",
+                "username": "student3@fom.de",
+                "password": "nkL99bge"
             },
             "deployed": {
-                "app-key": "YOUR APP KEY GOES HERE!",
+                "app-key": "1e5d227dd54a4efc8ff630df09dd314e4d44ce07",
                 "realtime-distribution-system": {
                     "url" : "YOUR DEPLOYED HOST:PORT GOES HERE!",
                     "dacs" : {
@@ -33,7 +33,7 @@
         },
         "desktop": {
             "workspace": {
-                "app-key": "YOUR APP KEY GOES HERE!"
+                "app-key": "1e5d227dd54a4efc8ff630df09dd314e4d44ce07"
             }
         }
     }
